@@ -52,6 +52,7 @@ HTTPServer
 
 'python -m SimpleHTTPServer 8080'
 
+****
 OM, Quiescent [quiessent] and Reagent (ReactJS libraries for Clojure) VS:
 *****
 - OM has most features but it is very advanced and difficult to use
