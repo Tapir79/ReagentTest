@@ -55,9 +55,9 @@ HTTPServer
 ****
 OM, Quiescent [quiessent] and Reagent (ReactJS libraries for Clojure) VS:
 - OM has most features but it is very advanced and difficult to use
-- Quiescent is good for beginners and hipsters but cannot do anything but very simple stuff
+- Quiescent is good for lightweight stuff
 - Reagent is something in between and has enough features to do advanced
-stuff but it's not too difficult to use. Like React+, better way to write React
+stuff but it's not too difficult to use. Like React+, a better way to write React
 ****
 
 Reagent
