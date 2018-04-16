@@ -46,29 +46,28 @@ the namespace wher  we wnt to run the app
 Clojure switch or case statement (!!!! NOTE core.cljc )
 #?
 
+****
 
 HTTPServer
-****
 
 'python -m SimpleHTTPServer 8080'
 
 ****
 OM, Quiescent [quiessent] and Reagent (ReactJS libraries for Clojure) VS:
-*****
 - OM has most features but it is very advanced and difficult to use
 - Quiescent is good for beginners and hipsters but cannot do anything but very simple stuff
 - Reagent is something in between and has enough features to do advanced
 stuff but it's not too difficult to use. Like React+, better way to write React
+****
 
 Reagent
-****
-- there's a cutting edge framework on top of Reagent called Re-Frame
+- framework on top of Reagent called Re-Frame
 - uses Hiccup-like markup instead of React's 'sort of html'
 - you write all components using just functions (the big idea)
 
-
+****
 Reagent/Atom
-***
-A Clojure function that makes a mutable wrapper around an immutable function
-An immutable container - how you handle state etc.
+
+- A Clojure function that makes a mutable wrapper around an immutable function
+- An immutable container - how you handle state etc.
 
