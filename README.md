@@ -37,7 +37,7 @@ once = do it one time
 index.html
 
 we need to tell where the goog a.k.a google closure compiler is (in project.clj the output-dir)
-the namespace wher  we wnt to run the app
+the namespace where  we want to run the app
 
 *****
 1.7 release
